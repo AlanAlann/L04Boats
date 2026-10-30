@@ -5,6 +5,6 @@ The GetABoat mobile application is developed using React Native to display the s
 
 # ScreenShots of App
 Top page screenshot: <br>
-![Screenshot_20261029_170409.png](../../Users/User/Downloads/Screenshot_20261029_170409.png)
-    Bottom page screenshot: <br>
-![Screenshot_20261029_170324.png](../../Users/User/Downloads/Screenshot_20261029_170324.png)
+![Screenshot_20261029_170409.png](screenshots/Screenshot_20261029_170409.png)
+Bottom page screenshot: <br>
+![Screenshot_20261029_170324.png](screenshots/Screenshot_20261029_170324.png)
